@@ -17,9 +17,10 @@
   }
   body,html {
       height: 100%;
-      
+      width: 100%;
       margin: 0em;
-      margin-top: 0em;
+      padding: 0em;
+      border: 0em;
   }
 
 .icon{
@@ -90,9 +91,9 @@ ul li {
     letter-spacing: 0.5px;
     
     cursor: pointer;
-    margin-top: 17px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-top: 27px;
+    margin-left: 0px;
+    margin-right: 30px;
     
 }
   
